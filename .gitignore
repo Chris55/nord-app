@@ -1,7 +1,3 @@
-upload/
-!upload/readme.md
-build/
-userdata/
 
 # SonarLint plugin
 .idea/sonarlint/
