@@ -1,0 +1,37 @@
+{
+    "author": "Christian Florentz (christian.florentz@gmail.com)",
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "description": "The unofficial Nord Stage 2/2EX/3 Program viewer tool.",
+    "engines": {
+        "node": "16.x"
+    },
+    "keywords": [
+        "Nord",
+        "Stage",
+        "NS3",
+        "File"
+    ],
+    "private": true,
+    "license": "MIT",
+    "homepage": "./",
+    "name": "ns-file-parser",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Chris55/ns3-program-viewer.git"
+    },
+    "scripts": {
+        "start": "NODE_ENV=production node build/server.min.js",
+    },
+    "version": "1.5.11"
+}

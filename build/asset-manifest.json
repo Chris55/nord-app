@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.fd6a5739.css",
+    "main.js": "./static/js/main.420a01f0.js",
+    "static/js/571.f975eb51.chunk.js": "./static/js/571.f975eb51.chunk.js",
+    "static/js/313.39fdf338.chunk.js": "./static/js/313.39fdf338.chunk.js",
+    "static/js/867.31dbdd90.chunk.js": "./static/js/867.31dbdd90.chunk.js",
+    "static/css/846.5a0c732e.chunk.css": "./static/css/846.5a0c732e.chunk.css",
+    "static/js/846.edb4bb41.chunk.js": "./static/js/846.edb4bb41.chunk.js",
+    "static/media/nord-logo-synth-bundle.svg": "./static/media/nord-logo-synth-bundle.ead9e00b4c972a3601ff86450d01d92e.svg",
+    "static/media/nord-logo-list-bundle.svg": "./static/media/nord-logo-list-bundle.98bc8c3f6996eb7c1836fc4890ea5db5.svg",
+    "static/media/nord-logo-synth.svg": "./static/media/nord-logo-synth.3f474f46c9fe9a673ad065f6fe2f0d2d.svg",
+    "static/media/nord-logo-program.svg": "./static/media/nord-logo-program.ecdc35df9327348992d37ad8ba1343cd.svg",
+    "static/media/nord-logo-program-bundle.svg": "./static/media/nord-logo-program-bundle.36a6971240525960b3b3868db65e1d57.svg",
+    "static/media/nord-logo-backup.svg": "./static/media/nord-logo-backup.3be6d01978fa9dedf78f81246f4425ce.svg",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.fd6a5739.css",
+    "static/js/main.420a01f0.js"
+  ]
+}
