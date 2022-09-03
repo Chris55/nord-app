@@ -31,7 +31,7 @@
         "url": "https://github.com/Chris55/ns3-program-viewer.git"
     },
     "scripts": {
-        "start": "NODE_ENV=production node build/server.min.js",
+        "start": "NODE_ENV=production node build/server.min.js"
     },
     "version": "1.5.11"
 }
