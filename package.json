@@ -14,7 +14,7 @@
     },
     "description": "The unofficial Nord Stage 2/2EX/3 Program viewer tool.",
     "engines": {
-        "node": "16.x"
+        "node": "18.x"
     },
     "keywords": [
         "Nord",
