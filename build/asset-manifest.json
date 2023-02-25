@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "./static/css/main.47930d7e.css",
-    "main.js": "./static/js/main.16ac0a9e.js",
-    "static/js/679.fe2f6a31.chunk.js": "./static/js/679.fe2f6a31.chunk.js",
+    "main.css": "./static/css/main.fd7a188b.css",
+    "main.js": "./static/js/main.2a68ee9c.js",
+    "static/js/679.817eb4c4.chunk.js": "./static/js/679.817eb4c4.chunk.js",
     "static/js/896.ec3889c1.chunk.js": "./static/js/896.ec3889c1.chunk.js",
     "static/js/359.942550ef.chunk.js": "./static/js/359.942550ef.chunk.js",
-    "static/css/500.efe1b3bc.chunk.css": "./static/css/500.efe1b3bc.chunk.css",
-    "static/js/500.04c710e3.chunk.js": "./static/js/500.04c710e3.chunk.js",
+    "static/js/680.e55656bc.chunk.js": "./static/js/680.e55656bc.chunk.js",
     "static/media/nord-logo-synth-bundle.svg": "./static/media/nord-logo-synth-bundle.ead9e00b4c972a3601ff86450d01d92e.svg",
     "static/media/nord-logo-list-bundle.svg": "./static/media/nord-logo-list-bundle.98bc8c3f6996eb7c1836fc4890ea5db5.svg",
     "static/media/nord-logo-synth.svg": "./static/media/nord-logo-synth.3f474f46c9fe9a673ad065f6fe2f0d2d.svg",
@@ -16,7 +15,7 @@
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.47930d7e.css",
-    "static/js/main.16ac0a9e.js"
+    "static/css/main.fd7a188b.css",
+    "static/js/main.2a68ee9c.js"
   ]
 }
